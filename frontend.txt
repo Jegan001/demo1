@@ -1,2 +1,6 @@
 jnjnkfkkfkfkf
 mkmkmk
+<<<<<<< HEAD
+=======
+jjjjj
+>>>>>>> 95296e3b187213b3657a677485be1afd54cd0c15
